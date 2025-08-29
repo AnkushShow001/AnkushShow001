@@ -88,9 +88,9 @@ const ankush = {
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=4A90E2&point=ffffff&area=true&area_color=4A90E2&hide_border=true&custom_title=Ankush's%20Contribution%20Graph&radius=10" />
-</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkushShow001&theme=radical&bg_color=000000&color=00ffcc&line=ff007f&point=00ffcc&area=true&hide_border=true&custom_title=🔥%20Ankush%20Shaw's%20Ultimate%20GitHub%20Activity%20Graph)](https://github.com/AnkushShow001)
+
 
 ---
 
