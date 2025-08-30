@@ -48,7 +48,7 @@ const ankush = {
 
 ## 📊 GitHub Analytics
 
-<div>
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkushShow001&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -72,8 +72,35 @@ const ankush = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=dark&bg_color=000000&title_color=4A90E2&text_color=ffffff&icon_color=4A90E2&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=dark&bg_color=000000&title_color=4A90E2&text_color=ffffff&icon_color=4A90E2&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+## 🚀 Featured Projects
+
+### 📌 [Resume Builder](https://github.com/AnkushShow001/resume-builder)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+📄 A web app to create professional resumes easily.  
+🔹 **Features:** Modern UI, export to PDF, customizable templates.  
+
+---
+
+### 📌 [Portfolio Website](https://github.com/AnkushShow001/portfolio)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+💻 My personal portfolio website to showcase my skills and projects.  
+🔹 **Features:** Modern design, responsive layout, contact form.  
+
+---
+
+### 📌 [GitHub Analytics Dashboard](https://github.com/AnkushShow001/github-analytics)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+📊 A custom analytics dashboard showing GitHub contribution graphs and streaks.  
+🔹 **Features:** Stats cards, streak tracker, contribution snake animation.  
+
 
 </div>
 
@@ -101,7 +128,9 @@ const ankush = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Contribution Snake
+![Contribution Snake](https://raw.githubusercontent.com/AnkushShow001/AnkushShow001/output/github-snake.svg)
+
 
 </div>
 
@@ -113,7 +142,10 @@ const ankush = {
 
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=000000&border_color=4A90E2)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+## 🎶 Now Playing on Spotify
+
+[![Spotify](https://novatorem-ankush.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
 
 *Connect your Spotify to show what you're currently listening to!*
 
