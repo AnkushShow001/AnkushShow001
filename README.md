@@ -141,13 +141,11 @@ const ankush = {
 ## 🎵 Now Playing on Spotify
 
 <div align="center">
-  
 ## 🎶 Now Playing on Spotify
 
-[![Spotify](https://novatorem-ankush.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31v4r4rzrjxw7hkvc4urzqxxmh4i&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color_cover=true)](https://open.spotify.com/user/31v4r4rzrjxw7hkvc4urzqxxmh4i)
 
 
-*Connect your Spotify to show what you're currently listening to!*
 
 </div>
 
