@@ -50,14 +50,18 @@ const ankush = {
 
 <div align="center">
 
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkushShow001&show_icons=true&theme=tokyonight&count_private=true)
 
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushShow001&layout=compact&theme=tokyonight)
 
+### Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AnkushShow001&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
+### GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=AnkushShow001&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
