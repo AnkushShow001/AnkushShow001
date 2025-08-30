@@ -46,13 +46,16 @@ const ankush = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=4A90E2&text_color=ffffff&icon_color=4A90E2&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=000000&title_color=4A90E2&text_color=ffffff&hide_border=true&langs_count=10&exclude_repo=YOUR_USERNAME"/>
-</div>
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=000000&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&hide_border=true&stroke=4A90E2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+<div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkushShow001&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushShow001&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AnkushShow001&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
 </div>
 
 ---
